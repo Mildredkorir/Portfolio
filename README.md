@@ -11,9 +11,8 @@ Currently pursuing my MSc in Data Science and passionate about solving real-worl
 - Applied Analytics in Finance, Health, and Social Impact  
 
 ## 📂 Projects
-- [Project 1: Telco Customer Churn Prediction](projects/project1)  
-- [Project 2: Credit Risk Modeling with Fairness Constraints](projects/project2)  
-- More coming soon...  
+- **Business Intelligence Dashboard (Coming Soon 🚀)**  
+  An interactive BI dashboard showcasing data visualization, KPIs, and insights.
 
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/mildred-korir/)  
